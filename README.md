@@ -26,6 +26,6 @@ Output: false
 
 Constraints:
 
-1 <= nums.length <= 105
+1 <= nums.length <= 10^5
 -109 <= nums[i] <= 109
 0 <= k <= 105
